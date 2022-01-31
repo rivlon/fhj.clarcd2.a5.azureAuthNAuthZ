@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccesAzureStorageWebApp", "AccesAzureStorageWebApp\AccesAzureStorageWebApp.csproj", "{2B351502-9C64-4C55-99BB-BB4B8F63808B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B351502-9C64-4C55-99BB-BB4B8F63808B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B351502-9C64-4C55-99BB-BB4B8F63808B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B351502-9C64-4C55-99BB-BB4B8F63808B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B351502-9C64-4C55-99BB-BB4B8F63808B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52CB1A60-4512-4587-855D-4020B6C7935C}
+	EndGlobalSection
+EndGlobal

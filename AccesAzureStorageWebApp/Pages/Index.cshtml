@@ -1,0 +1,13 @@
+﻿@page
+@using AccesAzureStorageWebApp.Pages
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p><a asp-page="./Storage-MSI/Index">User comments</a></p>
+    <p><a asp-page="./Graph-OBO/Index">User Details</a></p>
+     <p><a asp-page="./Graph-MSI/Index">Overview User</a></p>
+</div>

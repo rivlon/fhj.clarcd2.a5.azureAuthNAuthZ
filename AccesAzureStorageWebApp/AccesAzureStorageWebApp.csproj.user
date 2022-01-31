@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <NameOfLastUsedPublishProfile>C:\Workspace\CLARCD-2\UE5\Tutorial_1\AccesAzureStorageWebApp\AccesAzureStorageWebApp\Properties\PublishProfiles\T1-AccesAzureStorageWebApp - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
+  </PropertyGroup>
+</Project>
